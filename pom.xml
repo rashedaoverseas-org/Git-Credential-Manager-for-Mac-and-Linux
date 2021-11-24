@@ -189,8 +189,8 @@ Licensed under the MIT license. See License.txt in the project root. -->
           <checkstyleRules>
             <module name="Checker">
               <module name="Header">
-                <property name="headerFile" value="config/checkstyle/java.header" />
-                <property name="fileExtensions" value="java" />
+                <property name="headerFile" value="config/checkstyle/java.header"/>
+                <property name="fileExtensions" value="java"/>
               </module>
             </module>
           </checkstyleRules>
@@ -531,7 +531,7 @@ Licensed under the MIT license. See License.txt in the project root. -->
     <dependency>
       <groupId>com.microsoft.alm</groupId>
       <artifactId>auth-secure-storage</artifactId>
-      <version>0.2.0</version>
+      <version>0.6.4</version>
     </dependency>
 
     <dependency>
